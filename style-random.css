@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: black;
+}
+
+
+#luckyDice{
+    margin: 0px auto;
+    display: flex;
+    padding-top: 156px;  
+}
+
+
+.luckyText{
+    color: #FFFFFF;
+    font-size: 32px;
+    line-height: 38px;
+    font-weight: 400;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+
+input{
+    border: 1px solid #aaaaaa;
+    border-radius: 20px;
+    padding: 25px;
+    margin: 5px;
+    font-size: 30px;
+    
+    
+}
+
+.luckyButton{
+    background:#AEC346;
+    border-radius: 10px;
+    padding: 20px 100px;
+    font-size: 20px;
+    color: #FFFFFF;
+    box-shadow: 0 5px 15px  #AEC346 ;
+    display: flex;
+    margin: 40px auto;
+    cursor: pointer;
+    
+
+}
+
+.divBoxLucky{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+}
+
+.luckyButton:hover{
+    background-color: #a2b4;
+    
+}
+
