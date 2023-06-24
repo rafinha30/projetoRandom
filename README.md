@@ -1,6 +1,6 @@
 # projetoRandom
 
-<h1>Gerador de Números aleatório</h1>
+<h1>Sorteio de Números Aleatórios</h1>
 
 <ul>
   <li>Html</li>
